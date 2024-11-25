@@ -1,0 +1,3 @@
+This is a Python user game. Your system-side Python should be installed, and you should additionally download the image file.
+That downloaded images file your file side paste.
+
